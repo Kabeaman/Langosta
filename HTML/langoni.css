@@ -1,0 +1,43 @@
+h1{
+    color:rgba(8, 17, 100, 0.795);
+    font-size: 65px;
+    border:2px solid;
+}
+
+h2{
+    color:rgba(8, 17, 100, 0.795);
+
+}
+
+p{
+    font-style:normal;
+    color:rgba(8, 17, 100, 0.795);
+    font-size: 17px;
+}
+
+*{
+    margin: 5px;
+    padding: 10px;
+}
+
+#resumen{
+    color:rgba(8, 17, 100, 0.795);
+}
+
+.foto_boca{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+
+
+
+/*<nav class="menu">
+                <ul>
+                    <li><a href="#"><img src="logo centrado.png"></a></li>
+                    <li><a href="#"></a></li>
+                </ul>
+            </nav> /*
